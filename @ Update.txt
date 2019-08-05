@@ -1,0 +1,5 @@
+git add . // 将文件保存到暂存区
+
+git commit -m "改动文献数据库的原因及方式等" // 将暂存区中的文件提交到本地仓库
+
+git push origin master // 将最新的更改同步到远程仓库
